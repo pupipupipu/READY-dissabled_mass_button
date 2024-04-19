@@ -15,7 +15,7 @@ define(["jquery"], function ($) {
           users: {
             //Дима
             8043655: {
-              staff: "egorovdmitrii1",
+              staff: "egorovdmitri",
             },
 						//Дима тест
 						10598585: {
